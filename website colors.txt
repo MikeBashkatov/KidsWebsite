@@ -1,0 +1,3 @@
+yellow - #ded11d
+blue - #1493c9
+purple - #8a25b1
